@@ -1,5 +1,7 @@
 
-# ES na palma da mão
+# ES na palma da mão (OBSOLETO)
+
+# Este projeto migrou para [https://github.com/prodest/es-na-palma-da-mao](https://github.com/prodest/es-na-palma-da-mao)
 
 > O **ES NA PALMA DA MÃO** é um programa do **Governo do Estado do Espírito Santo** que reune **iniciativas e serviços do Governo em plataforma móvel (aplicativo) e web, com unidade de experiência do cidadão**. Por meio do **ES NA PALMA DA MÃO**, diversos serviços governamentais podem ser acessados através da web e dispositivos móveis (sistemas operacionais iOS e Android) utilizando uma interface comun.
 
